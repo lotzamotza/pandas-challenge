@@ -1,7 +1,7 @@
-completed a series of calculations to create a snapshot of the school districs and a snapshot of information pertaining to each school. 
+completed a series of calculations to create a snapshot of the school districts and a snapshot of information of each school. 
 The district information included the total number of unique schools, total number of students, total budget, a calculation of the district's average math and reading scores, and the over all percentage of students who passed math, reading, and a total percentage of students who passed math AND reading.
 School information included the names of the schools, their type - whether district or charter, total students of each school, the total budget of each school, the total budget spent per student, average math and reading scores per school and overall passing math and reading percentages per school.
 
 The data in the code reveals that there is a correlation between the schools that have a higher total budget and the over all passing rates. The data shows that schools with a total budget of under $1.4 million have over all passing rates of 89% or higher. Schools with a total budget over $1.4 million display consistent passing rates of under 60% regardless of type.
-Natually, schools with a higher population will have a larger budget. The problem is the failing passing rate among these large schools is consistent for all except one. 
+Naturally, schools with a higher population will have a larger budget. The problem is the failing passing rate among these large schools is consistent for all except one. 
 This could open up disscusion points among the district board pertaining to reallocating some budget funds towards resources aiming to improve these low passing rates.  
